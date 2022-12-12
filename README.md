@@ -3,8 +3,8 @@ Welcome to my profile 👋
 <p style="display:flex;align-items:center;"> Im currently learning Go</p>
 <div style="
             background-color: red;
-            -webkit-mask: url(logo.svg) no-repeat center;
-            mask: url(logo.svg) no-repeat center;">
+            -webkit-mask: url(https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/golang.svg) no-repeat center;
+            mask: url(https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/golang.svg) no-repeat center;">
 </div>
 <!--
 **alexrefshauge/alexrefshauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
