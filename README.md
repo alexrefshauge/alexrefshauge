@@ -1,6 +1,7 @@
 Welcome to my profile 👋
 
-<p style="display:flex;align-items:center;"> Im currently learning Go <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/golang.svg" width="50" height="50"></p>
+<p style="display:flex;align-items:center;"> Im currently learning Go</p>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/golang.svg" width="50" height="50">
 <!--
 **alexrefshauge/alexrefshauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
