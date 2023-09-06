@@ -1,6 +1,5 @@
 Welcome to my profile 👋
 
-<p style="display:flex;align-items:center;"> Im currently learning Go</p>
 <!--
 **alexrefshauge/alexrefshauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
