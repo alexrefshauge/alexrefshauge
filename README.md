@@ -1,4 +1,4 @@
-Welcome to my profile 👋
+<a href="https://app.daily.dev/alexref"><img src="https://api.daily.dev/devcards/625544b89d7d4110b7b4fb136511d2a1.png?r=tw9" width="400" alt="Alexander Renee Refshauge's Dev Card"/></a>
 
 <!--
 **alexrefshauge/alexrefshauge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
